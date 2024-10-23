@@ -19,8 +19,8 @@ html {
 }
 
 .logo-title img {
-    width: 40px; /* Ajusta el tamaño del logo */
-    margin-right: 10px; /* Espacio entre el logo y el texto */
+    width: 40px; 
+    margin-right: 10px; 
     margin: none;
 }
 
